@@ -1,5 +1,5 @@
 #  Letters
-### A Python script to examine suicidal ideation.
+### A Python script to examine patterns in suicidal ideation through reddit posts.
 
 ------------
 
